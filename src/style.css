@@ -1,0 +1,9 @@
+body {
+    background-image: url('./img/memphis-mini-dark.png');
+    text-align: center;
+}
+
+.add-post-btn {
+    display: flex;
+    justify-content: center;
+}
