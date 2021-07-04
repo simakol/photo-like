@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/photo-like/static/css/main.94e51bb5.chunk.css",
+    "main.js": "/photo-like/static/js/main.7290c30d.chunk.js",
+    "main.js.map": "/photo-like/static/js/main.7290c30d.chunk.js.map",
+    "runtime~main.js": "/photo-like/static/js/runtime~main.cf0bf215.js",
+    "runtime~main.js.map": "/photo-like/static/js/runtime~main.cf0bf215.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/photo-like/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.d2201950.chunk.js": "/photo-like/static/js/2.d2201950.chunk.js",
+    "static/js/2.d2201950.chunk.js.map": "/photo-like/static/js/2.d2201950.chunk.js.map",
+    "index.html": "/photo-like/index.html",
+    "precache-manifest.cf7ff4d3fe362f15fcc0222f20760b36.js": "/photo-like/precache-manifest.cf7ff4d3fe362f15fcc0222f20760b36.js",
+    "service-worker.js": "/photo-like/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/photo-like/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.94e51bb5.chunk.css.map": "/photo-like/static/css/main.94e51bb5.chunk.css.map",
+    "static/media/style.css": "/photo-like/static/media/memphis-mini-dark.b9da2244.png"
+  }
+}
